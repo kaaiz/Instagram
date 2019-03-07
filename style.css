@@ -1,0 +1,61 @@
+body{
+    background-color: #2A2828;
+}
+
+.foto{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 100%;
+}
+
+.fondo{
+    background-color: white;
+    width: 40%; 
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 2px;
+    text-align: left;
+    margin-top: 40px;
+}
+
+.mayor{
+    background-color: #DBDADA;
+    margin-left: 8%;
+    margin-right: 8%;
+    padding-bottom: 100%;
+    margin-top: -22px;
+}
+
+header{
+    background-color: white;
+    padding-bottom: 1px;
+    padding-top: 10px;
+    text-align: center;
+}
+
+p{
+    margin-left: 10px;
+    font-size: 13px;
+}
+
+h2{
+    padding-top: 8px;
+    margin-left: 10px;
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 13px;
+}
+
+h1{
+    font-family: "Arial Black", Gadget, sans-serif;
+    font-size: 20px;
+    margin-left: -130px;
+}
+#numeros{
+    float: right;
+    margin-right: 10px;
+    margin-top: -26px;
+    color: grey;
+    border-color: black;
+}
